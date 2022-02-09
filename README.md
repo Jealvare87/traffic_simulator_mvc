@@ -1,2 +1,2 @@
-# traffic_simulator_mvc
+# Traffic Simulator MVC
 A MVC Traffic Simulator
